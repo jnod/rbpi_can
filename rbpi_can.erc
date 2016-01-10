@@ -1,0 +1,49 @@
+ERC report (Thu 07 Jan 2016 04:47:01 PM CST, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (133.35 mm,60.96 mm): Pin 18 (Power input) of component U3 is not driven (Net 2).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (102.87 mm,91.44 mm): Pin 2 (Power input) of component U2 is not driven (Net 7).
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,81.28 mm): Pin 17 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,78.74 mm): Pin 15 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,104.14 mm): Pin 35 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,78.74 mm): Pin 16 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,91.44 mm): Pin 26 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,104.14 mm): Pin 36 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,101.60 mm): Pin 33 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,106.68 mm): Pin 37 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,81.28 mm): Pin 18 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,106.68 mm): Pin 38 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,109.22 mm): Pin 40 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,63.50 mm): Pin 3 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,66.04 mm): Pin 5 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,68.58 mm): Pin 7 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,73.66 mm): Pin 11 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,99.06 mm): Pin 31 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,73.66 mm): Pin 12 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,86.36 mm): Pin 22 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (195.58 mm,99.06 mm): Pin 32 (Passive) of component P2 is unconnected.
+ErrType(2): Pin not connected (and no connect symbol found on this pin)
+    @ (167.64 mm,76.20 mm): Pin 13 (Passive) of component P2 is unconnected.
+
+ ** ERC messages: 22  Errors 0  Warnings 22
